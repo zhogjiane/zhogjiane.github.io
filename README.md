@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to ZhogJiane's Blog
 
-You can use the [editor on GitHub](https://github.com/zhogjiane/zhogjiane.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+博客不会更新的很频繁，但愿你可以在这里，静下心来欣赏一下，我简短的句子，少有的闲心。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+几份数学题，半包咖啡，一支烟，一行bug，可以简约的度过一天。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+可能会不定期的更新小说，因为在家实在是无聊。
 
 ```markdown
 Syntax highlighted code block
